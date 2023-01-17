@@ -1,1 +1,1 @@
-Github 예제입니다. 임의의 텍스트
+Github 예제입니다. example2에서 갱신해봄 
